@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">🐰R4BB1T👀</h1>
 
 <!--
 **r-4bb1t/r-4bb1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<image src="https://user-images.githubusercontent.com/52532871/95517071-468cb580-09fb-11eb-8fe5-32f06d5e2197.gif"/>
+</p>
+
+<p align="center">⚛️ ReactJS | 🖊️ Problem Solving (C++) | 🎮 Unity3D</p>
+<br />
+<p align="center">🎓 B.S. in Software Venture / Korea University 2020.09~<br/>
+  📧 r4bb1t@korea.ac.kr<br/>
+  📚 r4bb1t.tistory.com</p>
