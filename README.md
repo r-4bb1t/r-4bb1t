@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <br />
 <p align="center">🎓 B.S. in Software Venture / Korea University 2020.09~<br/>
   📧 r4bb1t@korea.ac.kr<br/>
-  📚 <a href="r4bb1t.tistory.com">blog</a> / ⚒ <a href="r-4bb1t.github.io/r4bb1t-dev">cv</a>
+  📚 <a href="https://r4bb1t.tistory.com">blog</a> / ⚒ <a href="https://r-4bb1t.github.io/r4bb1t-dev">cv</a>
