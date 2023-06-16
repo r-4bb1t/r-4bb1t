@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <br />
 <p align="center">🎓 undergraduate <br/>
   📧 r4bb1t@korea.ac.kr<br/>
-  🏠 <a href="https://r4bb1t.dev">homepage</a> / 📚 <a href="https://r4bb1t.tistory.com">blog</a> / ⚒ <a href="https://r4bb1t.dev/cv">cv</a><br/>
+  🏠 <a href="https://r4bb1t.dev">homepage</a> / 📚 <a href="https://r4bb1t.tistory.com">blog</a>
 </p>
