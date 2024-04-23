@@ -1,7 +1,7 @@
 <h1 align="center">🐰R4BB1T👀</h1>
 
 <p align="center">
-<image src="https://user-images.githubusercontent.com/52532871/95517071-468cb580-09fb-11eb-8fe5-32f06d5e2197.gif"/>
+  <image src="https://github.com/r-4bb1t/r-4bb1t/assets/52532871/8ad59a1f-a923-40e4-825b-4b1dc40274fc"/>
 </p>
 <br />
 <p align="center">🎓 Yep, still just an undergrad.<br/>
