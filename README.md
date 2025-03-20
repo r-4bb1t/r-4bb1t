@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">R4BB1T</h1>
 <p align="center"><strong>🐰Creating fun, creating in fun.👀</strong></p>
-<p align="center">🎓 Yep, still just an undergrad.<br/>
+<p align="center">🎓 After an eternity of time... finally graduated.<br/>
   📧 me@r4bb1t.dev<br/>
   🏠 <a href="https://r4bb1t.dev">homepage</a> / 📚 <a href="https://r4bb1t.tistory.com">blog</a>
 </p>
